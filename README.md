@@ -1,1 +1,1 @@
-[(https://github.com/Vitalik1995Rikov/Vitalik1995Rikov/blob/main/beginner.jpg)]
+[!(https://github.com/Vitalik1995Rikov/Vitalik1995Rikov/blob/main/beginner.jpg)]
